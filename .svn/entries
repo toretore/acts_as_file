@@ -1,88 +1,0 @@
-8
-
-dir
-124
-http://nimrod.interinter.net/plugins/trunk/acts_as_file
-http://nimrod.interinter.net/plugins
-
-
-
-2007-06-18T08:42:26.186113Z
-124
-horetore
-
-
-svn:special svn:externals svn:needs-lock
-
-test
-dir
-
-Rakefile
-file
-
-
-
-
-2007-06-17T14:19:34.000000Z
-48f8d7f3a143d9e22cc366e914d2e775
-2007-06-18T08:42:26.186113Z
-124
-horetore
-
-init.rb
-file
-
-
-
-
-2007-06-17T17:46:53.000000Z
-9d8fe0e9853dafd3b7e39fa1c461ff4c
-2007-06-18T08:42:26.186113Z
-124
-horetore
-
-tasks
-dir
-
-lib
-dir
-
-install.rb
-file
-
-
-
-
-2007-06-17T14:19:34.000000Z
-cbe738c10eba4ae2da8c6859c9723e44
-2007-06-18T08:42:26.186113Z
-124
-horetore
-
-generators
-dir
-
-uninstall.rb
-file
-
-
-
-
-2007-06-17T14:19:34.000000Z
-2a5fc883fe7f8dfe22ced24643d59ad4
-2007-06-18T08:42:26.186113Z
-124
-horetore
-
-README
-file
-
-
-
-
-2007-06-17T14:19:34.000000Z
-7addb990d2d84a3df52592897c64ee7d
-2007-06-18T08:42:26.186113Z
-124
-horetore
-
