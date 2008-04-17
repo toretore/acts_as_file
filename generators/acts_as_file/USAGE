@@ -1,0 +1,8 @@
+<action> must be one of the following:
+
+    model ModelName                  Create a file model named ModelName or
+                                     Upload (File is a reserved word) if
+                                     ModelName is missing. Will also create
+                                     a migration by default.
+    
+    migration table_name             Create the migration for the files table.

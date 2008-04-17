@@ -1,0 +1,19 @@
+8
+
+dir
+124
+http://nimrod.interinter.net/plugins/trunk/acts_as_file/generators
+http://nimrod.interinter.net/plugins
+
+
+
+2007-06-18T08:42:26.186113Z
+124
+horetore
+
+
+svn:special svn:externals svn:needs-lock
+
+acts_as_file
+dir
+

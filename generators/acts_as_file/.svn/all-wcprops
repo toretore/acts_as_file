@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/plugins/!svn/ver/124/trunk/acts_as_file/generators/acts_as_file
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/plugins/!svn/ver/124/trunk/acts_as_file/generators/acts_as_file/USAGE
+END
+acts_as_file_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/plugins/!svn/ver/124/trunk/acts_as_file/generators/acts_as_file/acts_as_file_generator.rb
+END
